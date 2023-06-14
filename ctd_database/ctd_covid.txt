@@ -1,0 +1,63 @@
+D000086382	2019 ncov disease
+D000086382	2019-ncov disease
+D000086382	2019-ncov diseases
+D000086382	2019 ncov infection
+D000086382	2019-ncov infection
+D000086382	2019-ncov infections
+D000086382	2019 novel coronavirus disease
+D000086382	2019 novel coronavirus infection
+D000086382	coronavirus disease 19
+D000086382	coronavirus disease-19
+D000086382	coronavirus disease 2019
+D000086382	covid 19
+D000086382	covid19
+D000086382	covid 19 pandemic
+D000086382	covid-19 pandemic
+D000086382	covid-19 pandemics
+D000086382	covid 19 virus disease
+D000086382	covid-19 virus disease
+D000086382	covid-19 virus diseases
+D000086382	covid 19 virus infection
+D000086382	covid-19 virus infection
+D000086382	covid-19 virus infections
+D000086382	disease 2019, coronavirus
+D000086382	disease, 2019-ncov
+D000086382	disease, covid-19 virus
+D000086382	infection, 2019-ncov
+D000086382	infection, covid-19 virus
+D000086382	infection, sars-cov-2
+D000086382	pandemic, covid-19
+D000086382	sars coronavirus 2 infection
+D000086382	sars cov 2 infection
+D000086382	sars-cov-2 infection
+D000086382	sars-cov-2 infections
+D000086382	severe acute respiratory syndrome coronavirus 2 infection
+D000086382	virus disease, covid-19
+D000086382	virus infection, covid-19
+D000086382	covid-19
+D000086382	coronavirus
+D000086382	corona virus
+D000086382	corona-virus
+D000086382	covid-19 virus
+D000086382	2019-ncov
+D000086382	2019 ncov
+D000086382	2019ncov
+D000086382	sars-cov
+D000086382	sars cov
+D000086382	mers-cov
+D000086382	sars-cov-2
+D000086382	mers
+D000086382	mers-coronavirus
+D000086382	mers coronavirus
+D000086382	mers cov
+D000086382	severe acute respiratory syndrome coronavirus
+D000086382	severe acute respiratory syndrome
+D000086382	severe acute respiratory syndrome-associated coronavirus
+D000086382	severe acute respiratory syndrome associated coronavirus
+D000086382	middle east respiratory syndrome coronavirus
+D000086382	middle east respiratory syndrome
+D000086382	middle east respiratory coronavirus
+D000086382	2019ncov disease
+D000086382	2019ncov infection
+D000086382	hcov
+D000086382	cov
